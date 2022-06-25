@@ -1,0 +1,19 @@
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+#user-form {
+  display: none;
+}
+div#loading {
+
+  text-align: center;
+}
+img#imgLoad {
+  padding: 20px;
+  width: 100px;
+}
+th:hover{
+  cursor: pointer;
+}
